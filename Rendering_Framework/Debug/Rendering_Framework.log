@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\mark\desktop\gpa_final_outdoor\rendering_framework\src\basic\shader.h(6): fatal error C1083: 無法開啟包含檔案: 'glad\glad.h': No such file or directory
+  SceneSetting.cpp
+  SceneRenderer.cpp
+c:\users\mark\desktop\gpa_final_outdoor\rendering_framework\src\basic\shader.h(6): fatal error C1083: 無法開啟包含檔案: 'glad\glad.h': No such file or directory
+  Shader.cpp
+c:\users\mark\desktop\gpa_final_outdoor\rendering_framework\src\basic\shader.h(6): fatal error C1083: 無法開啟包含檔案: 'glad\glad.h': No such file or directory
+  TextureMaterial.cpp
+c:\users\mark\desktop\gpa_final_outdoor\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: 無法開啟包含檔案: 'glm\mat4x4.hpp': No such file or directory
+  Transformation.cpp
+c:\users\mark\desktop\gpa_final_outdoor\rendering_framework\src\basic\transformation.h(3): fatal error C1083: 無法開啟包含檔案: 'glm/mat4x4.hpp': No such file or directory
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+c:\users\mark\desktop\gpa_final_outdoor\rendering_framework\src\imgui\imgui_impl_glfw.cpp(58): fatal error C1083: 無法開啟包含檔案: 'GLFW/glfw3.h': No such file or directory
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Terrain.cpp
+c:\users\mark\desktop\gpa_final_outdoor\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: 無法開啟包含檔案: 'glm\mat4x4.hpp': No such file or directory
+  正在產生程式碼...
