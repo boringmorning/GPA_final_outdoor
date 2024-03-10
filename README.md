@@ -1,4 +1,4 @@
-NTHU Graphics Programming and its Applications course final project
+NTHU "Graphics Programming and its Applications" course final project
 ===
 The execution file is inside the **Rendering_Framework/** folder
 - **It must be put there to be successfully executed!**
